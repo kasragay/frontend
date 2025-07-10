@@ -5,13 +5,11 @@
 
 ---
 
-```bash
-```
+```bash```
 
 
 ### Environment Variables
 
 ---
 
-```env
-```
+```env```
